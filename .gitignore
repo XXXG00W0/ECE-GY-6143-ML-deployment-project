@@ -1,3 +1,11 @@
+#checkpoint
+checkpoint/*
+content/*
+fine_tuning_checkpoint/*
+backup/*
+runs/run_1/*
+runs/run_2/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
