@@ -4,6 +4,8 @@ content/*
 fine_tuning_checkpoint/*
 backup/*
 runs/*
+./*.keras
+./*.npy
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
